@@ -1,6 +1,7 @@
 # CMP_114_Assignment3
 Projects on Bank GUI with python
  - John Jedidiah
+ - BHU/22/04/05/0131
  Created Bank app(GUI)
 ![Screenshot (13)](https://github.com/TimmyCodes-11/CMP_114_Assignment3/assets/130843926/5bf733d7-34be-421e-b006-cf13129ec27c)
 - Akinyogbon Timilehin Solomon BHU/22/04/10/0020
